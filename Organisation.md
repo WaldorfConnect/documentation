@@ -1,0 +1,1 @@
+<!-- hier stehen sachen wie unsere Roadmap, Finanzierung, evtl. Verantwortlichkeiten,... -->

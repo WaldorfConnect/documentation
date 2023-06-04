@@ -1,2 +1,2 @@
-# documentation
-The technical and organizational documentation of the WaldorfConnect project
+# Dokumentation des WaldorfConnect-Projekts
+Die technische und organisatorische Dokumentation des WaldorfConnect-Projekts
