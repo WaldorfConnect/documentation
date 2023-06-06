@@ -20,7 +20,6 @@
 - Bei einer **W-LSV Klausurtagung** (eine Tagung mit allen deutschsprachigen W-LSVen) vom **26.05.2023 bis 29.05.2023** ging es um die **Vernetzung der Schülervertretungen** (SVen), das Aufbauen von W-LSVen und allgemein die Verbesserung von SV-Strukturen.
 - In diesem Rahmen haben sich Arbeitsgruppen zu verschiedenen Themen gebildet, u.a. die Arbeitsgruppe "Vernetzung/Technik/Plattform", aus der das Projekt "WaldorfConnect" hervorging.
 
-
 ### Ist-Zustand
 
 - Die Kommunikation innerhalb von SVs läuft bisher i.d.R. über Gruppenchats in Messengern wie Signal, WhatsApp und Telegram.
@@ -48,6 +47,7 @@
     - **Datenschutz** ist gewährleistet
     - **einfache Vernetzung** untereinander: in einer Kontaktliste der Plattform können Mitglieder sämtlicher SVen zu finden sein, die sich auf der Plattform registriert haben    
 
+---
 
 ## Projektplan
 
@@ -57,9 +57,13 @@
 
 <u>11.05.2023 (Sonntag)</u>: erster Prototyp der WaldorfConnect Plattform
 
+---
+
 ## Projektteam
 
 Das Projektteam besteht derzeit aus 8 Mitgliedern.
+
+---
 
 ## Finanzierung
 
