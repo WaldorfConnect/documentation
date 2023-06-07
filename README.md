@@ -2,9 +2,9 @@
 
 > Durch Versionierung in einem [Git](https://de.wikipedia.org/wiki/Git)-Repository machen wir Änderungen an der Dokumentation nachvollziehbar.
 
-## Organisatorische Dokumentation: [Organisation.md](Organisation.md)
+## Organisatorische Dokumentation: 🎬 [Organisation.md](Organisation.md) 🎬
 
-## Technische Dokumentation: [Dokumentation.md](Dokumentation.md)
+## Technische Dokumentation: 💡 [Dokumentation.md](Dokumentation.md) 💡
 
 ## Hinweise zum Bearbeiten der Dokumente  `(.md)`
 
