@@ -6,8 +6,6 @@
 
 ## Technische Dokumentation: [Dokumentation.md](Dokumentation.md)
 
----
-
 ## Hinweise zum Bearbeiten der Dokumente  `(.md)`
 
 Die Dokumente mit der Datei-Endung ".md" sind in [Markdown](https://de.wikipedia.org/wiki/Markdown) geschrieben, so dass wir sie ganz einfach mit Texteditoren oder Entwicklungsumgebungen bearbeiten und in eine Versionskontrolle (z.B. Git) einpflegen können.
