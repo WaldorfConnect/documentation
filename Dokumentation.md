@@ -1,48 +1,47 @@
-# WaldorfConnect | Dokumentation
+# WaldorfConnect | Dokumentation <!-- omit in toc -->
 
 Willkommen in der Architekturdokumentation der WaldorfConnect Plattform!
 
 Das Dokument entspricht strukturell einer vereinfachten und angepassten Version des vom [Fraunhofer IESE ](https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Experimentelles_Software_Engineering_IESE) entwickelten [Architecture Decomposition Framework (ADF)](https://www.iese.fraunhofer.de/blog/softwarearchitekturen-einfacher-designen-und-verstaendlicher-dokumentieren-mit-dem-fraunhofer-adf/).
 
-Ziel des Texts ist es, dem Leser erst einen guten Überblick über das System - und was damit erreicht werden soll - zu verschaffen.
+Ziel des Texts ist es, dem Leser erst einen guten Überblick über das System und was damit erreicht werden soll zu verschaffen.
 
-Die wesentlichen Treiber (Einflussfaktoren) für die Architektur des Systems werden dargestellt. Diese sollen durch den Architekturentwurf im darauffolgenden Abschnitt realisiert werden.
+Die wesentlichen Architekturtreiber (Ziele / Faktoren, die die Gestaltung und Entscheidungene in der Softwarearchitektur beeinflussen) werden dargestellt. Der Architekturentwurf im darauffolgenden Abschnitt soll diesen Ansprüchen möglichst gerecht werden.
 
-Einige Architekturkonzepte zeigen, wie bestimmte angestrebte Qualitätsmerkmale erzielt werden.
+Einige Architekturkonzepte zeigen dann, wie bestimmte angestrebte Qualitätsmerkmale erzielt werden und erhöhen das Vertrauen in das System.
 
-Gegen Ende sind dann sämtliche getroffenen Entscheidungen inklusive der verworfenen Alternativen dokumentiert.
+Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen Alternativen dokumentiert, damit nachvollzogen werden kann, warum genau diese Komponenten in der vorliegenden Konstellation ausgewählt wurden.
 
-Final steht ein Ausblick in die Zukunft.
+Final steht ein Ausblick in die Zukunft und auf ein potentielles Nachfolgersystem.
 
 ## Inhalt <!-- omit in toc -->
 
-- [WaldorfConnect | Dokumentation](#waldorfconnect--dokumentation)
-  - [Einleitung](#einleitung)
-    - [Motivation und Kerntreiber für die Entwicklung des Systems](#motivation-und-kerntreiber-für-die-entwicklung-des-systems)
-    - [Ziele, die mit dem System erreicht werden sollen](#ziele-die-mit-dem-system-erreicht-werden-sollen)
-    - [Besondere Herausforderugnen](#besondere-herausforderugnen)
-    - [Kernfunktionalitäten](#kernfunktionalitäten)
-    - [Randbedingungen (Constraints)](#randbedingungen-constraints)
-    - [Stakeholder](#stakeholder)
-    - [Benutzerrollen](#benutzerrollen)
-  - [Architekturtreiber (Funktion und Qualität)](#architekturtreiber-funktion-und-qualität)
-    - [Wesentliche funktionale Anforderungen](#wesentliche-funktionale-anforderungen)
-    - [Qualitätsattribute](#qualitätsattribute)
-  - [Architektur](#architektur)
-    - [Sitemap](#sitemap)
-  - [Architekturkonzepte](#architekturkonzepte)
-    - [Kostenkozept](#kostenkozept)
-    - [Datenschutz- und Sicherheitskonzept](#datenschutz--und-sicherheitskonzept)
-    - [Verfügbarkeitskonzept](#verfügbarkeitskonzept)
-    - [Backupkonzept](#backupkonzept)
-  - [Design-Entscheidungen \& Verworfene Alternativen](#design-entscheidungen--verworfene-alternativen)
-    - [Open Source statt Microsoft Office](#open-source-statt-microsoft-office)
-    - [Verworfene Architektur-Alternative: Fork von NextCloud und NextCloud Talk](#verworfene-architektur-alternative-fork-von-nextcloud-und-nextcloud-talk)
-    - [Zulip als Team Chat App](#zulip-als-team-chat-app)
-    - [Hoster](#hoster)
-    - [LDAP Account Manager](#ldap-account-manager)
-  - [Ausblick und Pläne für die Zukunft](#ausblick-und-pläne-für-die-zukunft)
-  - [Glossar](#glossar)
+- [Einleitung](#einleitung)
+  - [Motivation und Kerntreiber für die Entwicklung des Systems](#motivation-und-kerntreiber-für-die-entwicklung-des-systems)
+  - [Ziele, die mit dem System erreicht werden sollen](#ziele-die-mit-dem-system-erreicht-werden-sollen)
+  - [Besondere Herausforderugnen](#besondere-herausforderugnen)
+  - [Kernfunktionalitäten](#kernfunktionalitäten)
+  - [Randbedingungen (Constraints)](#randbedingungen-constraints)
+  - [Stakeholder](#stakeholder)
+  - [Benutzerrollen](#benutzerrollen)
+- [Architekturtreiber (Funktion und Qualität)](#architekturtreiber-funktion-und-qualität)
+  - [Wesentliche funktionale Anforderungen](#wesentliche-funktionale-anforderungen)
+  - [Qualitätsattribute](#qualitätsattribute)
+- [Architektur](#architektur)
+  - [Sitemap](#sitemap)
+- [Architekturkonzepte](#architekturkonzepte)
+  - [Kostenkozept](#kostenkozept)
+  - [Datenschutz- und Sicherheitskonzept](#datenschutz--und-sicherheitskonzept)
+  - [Verfügbarkeitskonzept](#verfügbarkeitskonzept)
+  - [Backupkonzept](#backupkonzept)
+- [Design-Entscheidungen \& Verworfene Alternativen](#design-entscheidungen--verworfene-alternativen)
+  - [Open Source statt Microsoft Office](#open-source-statt-microsoft-office)
+  - [Verworfene Architektur-Alternative: Fork von NextCloud und NextCloud Talk](#verworfene-architektur-alternative-fork-von-nextcloud-und-nextcloud-talk)
+  - [Zulip als Team Chat App](#zulip-als-team-chat-app)
+  - [Hoster](#hoster)
+  - [LDAP Account Manager](#ldap-account-manager)
+- [Ausblick und Pläne für die Zukunft](#ausblick-und-pläne-für-die-zukunft)
+- [Glossar](#glossar)
 
 ## Einleitung
 

@@ -1,24 +1,23 @@
-# WaldorfConnect | Organisation
+# WaldorfConnect | Organisation <!-- omit in toc -->
 
 ## Inhalt <!-- omit in toc -->
 
-- [WaldorfConnect | Organisation](#waldorfconnect--organisation)
-  - [Projektübersicht](#projektübersicht)
-    - [Kontext](#kontext)
-    - [Ist-Zustand](#ist-zustand)
-    - [Soll-Zustand](#soll-zustand)
-    - [Lösung](#lösung)
-  - [Projektplan](#projektplan)
-  - [Projektteam](#projektteam)
-  - [Finanzierung](#finanzierung)
-  - [Glossar](#glossar)
+- [Projektübersicht](#projektübersicht)
+  - [Kontext](#kontext)
+  - [Ist-Zustand](#ist-zustand)
+  - [Soll-Zustand](#soll-zustand)
+  - [Lösung](#lösung)
+- [Projektplan](#projektplan)
+- [Projektteam](#projektteam)
+- [Finanzierung](#finanzierung)
+- [Glossar](#glossar)
 
 ## Projektübersicht
 
 ### Kontext
 
-- Bei einer **W-LSV Klausurtagung** (eine Tagung der deutschsprachigen W-LSVen) vom **26.05.2023 bis 29.05.2023** ging es um die **Vernetzung der Schülervertretungen** (SVen), das Aufbauen von W-LSVen und allgemein die Verbesserung von SV-Strukturen.
-- In diesem Rahmen haben sich Arbeitsgruppen zu verschiedenen Themen gebildet, u.a. die Arbeitsgruppe "Vernetzung/Technik/Plattform", aus der das Projekt "WaldorfConnect" hervorging.
+- Bei einer **W-LSV Klausurtagung** (eine Tagung deutschsprachiger W-LSVen) vom **26.05.2023 bis 29.05.2023** ging es um die **Vernetzung der Schülervertretungen** (SVen), das Aufbauen von W-LSVen und allgemein die Verbesserung von SV-Strukturen.
+- In diesem Rahmen haben sich Arbeitsgruppen zu verschiedenen Themen gebildet, u.a. die Arbeitsgruppe "Vernetzung/Technik/Plattform", aus der noch in derselben Veranstaltung das Projekt "WaldorfConnect" wurde.
 
 ### Ist-Zustand
 
@@ -27,11 +26,10 @@
 
 - Probleme:
     
-    - Angelegenheiten der SVen sind an verschiedenen Orten verteilt - oft in privaten Cloud-Speichern
-    - SV-Chats sind in Messengern vermischt mit privaten Chats und gehen manchmal unter
+    - SV-Angelegenheiten sind an verschiedensten Orten verteilt - oft in privaten Cloud-Speichern
+    - SV-Chats sind in Messengern vermischt mit privaten Chats und gehen schnell unter
     - Datenschutz ist kaum zu gewährleisten
-    - Ansprechpersonen von anderen SVs sind nicht einfach kontaktierbar
-    - ...
+    - Ansprechpersonen von anderen SVs sind nicht einfach verfügbar, wenn man sie nicht schon mal kennengelernt und eingespeichert hat
 
 -> Kommunikation und Kollaboration sind schwierig - die Waldorf SVen sind nicht gut vernetzt.
 

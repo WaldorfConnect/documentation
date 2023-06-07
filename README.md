@@ -1,7 +1,12 @@
 # Dokumentation des WaldorfConnect-Projekts
-Die technische und organisatorische Dokumentation des WaldorfConnect-Projekts
 
-Durch Versionierung in einem Git-Repository machen wir Änderungen an der Dokumentation nachvollziehbar.
+> Durch Versionierung in einem [Git](https://de.wikipedia.org/wiki/Git)-Repository machen wir Änderungen an der Dokumentation nachvollziehbar.
+
+## Organisatorische Dokumentation: [Organisation.md](Organisation.md)
+
+## Technische Dokumentation: [Dokumentation.md](Dokumentation.md)
+
+---
 
 ## Hinweise zum Bearbeiten der Dokumente  `(.md)`
 
