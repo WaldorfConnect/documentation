@@ -1,0 +1,19 @@
+  "hediet.vscode-drawio.theme": "Kennedy",
+  "hediet.vscode-drawio.customLibraries": [
+    {
+      "file": "C:\\Users\\leander\\Desktop\\documentation\\Diagramme\\adf-elements\\libraries\\ADF_SW@RT.xml",
+      "libName": "ADF SW@RT"
+    },
+    {
+      "file": "C:\\Users\\leander\\Desktop\\documentation\\Diagramme\\adf-elements\\libraries\\ADF_Env@RT.xml",
+      "libName": "ADF Env@RT"
+    },
+    {
+      "file": "C:\\Users\\leander\\Desktop\\documentation\\Diagramme\\adf-elements\\libraries\\ADF_SW@DT.xml",
+      "libName": "ADF SW@DT"
+    },
+    {
+      "file": "C:\\Users\\leander\\Desktop\\documentation\\Diagramme\\adf-elements\\libraries\\ADF_Env@DT.xml",
+      "libName": "ADF Env@DT"
+    }
+  ],

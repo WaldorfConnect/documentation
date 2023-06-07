@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "hediet.vscode-drawio.resizeImages": null,
+  "hediet.vscode-drawio.theme": "Kennedy",
+  "hediet.vscode-drawio.customLibraries": [
+    {
+      "file": "/home/leander/Desktop/documentation/Diagramme/adf-elements/libraries/ADF_SW@RT.xml",
+      "libName": "ADF SW@RT"
+    },
+    {
+      "file": "/home/leander/Desktop/documentation/Diagramme/adf-elements/libraries/ADF_Env@RT.xml",
+      "libName": "ADF Env@RT"
+    },
+    {
+      "file": "/home/leander/Desktop/documentation/Diagramme/adf-elements/libraries/ADF_SW@DT.xml",
+      "libName": "ADF SW@DT"
+    },
+    {
+      "file": "/home/leander/Desktop/documentation/Diagramme/adf-elements/libraries/ADF_Env@DT.xml",
+      "libName": "ADF Env@DT"
+    }
+  ],
+  "files.autoSave": "afterDelay",
+}

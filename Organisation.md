@@ -17,7 +17,7 @@
 
 ### Kontext
 
-- Bei einer **W-LSV Klausurtagung** (eine Tagung mit allen deutschsprachigen W-LSVen) vom **26.05.2023 bis 29.05.2023** ging es um die **Vernetzung der Schülervertretungen** (SVen), das Aufbauen von W-LSVen und allgemein die Verbesserung von SV-Strukturen.
+- Bei einer **W-LSV Klausurtagung** (eine Tagung der deutschsprachigen W-LSVen) vom **26.05.2023 bis 29.05.2023** ging es um die **Vernetzung der Schülervertretungen** (SVen), das Aufbauen von W-LSVen und allgemein die Verbesserung von SV-Strukturen.
 - In diesem Rahmen haben sich Arbeitsgruppen zu verschiedenen Themen gebildet, u.a. die Arbeitsgruppe "Vernetzung/Technik/Plattform", aus der das Projekt "WaldorfConnect" hervorging.
 
 ### Ist-Zustand
@@ -67,7 +67,7 @@ Das Projektteam besteht derzeit aus 8 Mitgliedern.
 
 ## Finanzierung
 
-Finanzierung soll vom Bund der Freien Waldorfschulen beantragt werden.
+Die Finanzierung des Projekts wird aktuell beim Bund der Freien Waldorfschulen beantragt.
 
 ---
 
