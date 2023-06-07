@@ -85,6 +85,8 @@ Final steht ein Ausblick in die Zukunft und auf ein potentielles Nachfolgersyste
 - SV-Admin
 - Globaler Admin
 
+<br>
+
 ## Architekturtreiber (Funktion und Qualität)
 
 ### Wesentliche funktionale Anforderungen
@@ -101,6 +103,8 @@ Final steht ein Ausblick in die Zukunft und auf ein potentielles Nachfolgersyste
 - Leistungseffizienz: das System sollte so schnell reagieren, wie für moderene Webanwendungen üblich
 - Benutzbarkeit: das System sollte intuitiv verständlich und nach anfänglicher Einarbeitung schnell und einfach bedienbar sein
 - Wartbarkeit: das System sollte nach anfänglicher Entwicklung und Inbetriebnahme möglichst keinen technischen Wartungsaufwand verursachen und nur minimalen organisatorischen Aufwand
+
+<br>
 
 ## Architektur
 
@@ -125,6 +129,8 @@ Die folgende Sitemap (dt.: Seitenübersicht) zeigt, wie das `Portal`, `NextCloud
 Benutzer des Systems werden diese 3 Anwendungen i.d.R. bald als Lesezeichen im Browser speichern (oder durch das Autocomplete des Browsers schneller erreichen), aber für den Anfang und die generelle Erreichbarkeit der Komponenten sind Links auf der Hauptseite sehr wertvoll.
 
 Auf der Homepage sollen dann auch weitere Informationen zur Benutzung und Nachvollziehbarkeit des Systems ausgeschildert sein.
+
+<br>
 
 ## Architekturkonzepte
 
@@ -170,6 +176,8 @@ Die Verfügbarkeit der WaldorfConnect Plattform kommt durch die Verfügbarkeit d
 Für regelmäßige (wohl tägliche) Backups unseres bei STRATO gemieteten "Linux V-Servers" können wir den [Backupservice von STRATO](https://www.strato.de/faq/server/backup-eines-servers-von-strato/) nutzen.
 
 Falls uns hier der zur Verfügung gestellte Backup-Speicherplatz zu Rande gehen sollte, haben wir die Möglichkeit selbst mithilfe eines Cronjobs regelmäßig Backups vorzunehmen und auf den gemieteten 1.5 TB Speicherplatz abzulegen.
+
+<br>
 
 ## Design-Entscheidungen & Verworfene Alternativen
 
@@ -231,9 +239,14 @@ Um LDAP Server zu verwalten, gibt es [verschiedene Clients](https://de.wikipedia
 
 Deshalb wird hier nun der [LDAP Account Manager](https://de.wikipedia.org/wiki/LDAP_Account_Manager) verwendet.
 
+
+<br>
+
 ## Ausblick und Pläne für die Zukunft
 
 - Der Bund der Freien Waldorfschulen hat angekündigt, im Herbst 2023 mit der Planung einer Plattform anzufangen, die seine Mitglieder unterstützen soll - möglicherweise mit denselben oder mehr Funktionalitäten. Voraussichtlich (und das soll so kommuniziert werden) sind die Schüler-Vertretungen in dieser Plattform mit einbegriffen. Da dort nicht nur Vernetzung von SVs, sondern von allen Waldorf-Gremien überhaupt in Aussicht steht und außerdem ganz andere Mittel vorhanden sein werden, wird dieses System potentiell - wenn es schließlich da ist - WaldorfConnect ablösen.
+
+<br>
 
 ---
 

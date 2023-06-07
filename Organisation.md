@@ -45,8 +45,6 @@
     - **Datenschutz** ist gewährleistet
     - **einfache Vernetzung** untereinander: in einer Kontaktliste der Plattform können Mitglieder sämtlicher SVen zu finden sein, die sich auf der Plattform registriert haben    
 
----
-
 ## Projektplan
 
 <u>28.05.2023 (Sonntag)</u>: Gründung der Arbeitsgruppe "Vernetzung - Technik - Plattform" + Anfangen mit der Planung der Plattform
@@ -55,19 +53,13 @@
 
 <u>11.05.2023 (Sonntag)</u>: erster Prototyp der WaldorfConnect Plattform
 
----
-
 ## Projektteam
 
 Das Projektteam besteht derzeit aus 8 Mitgliedern.
 
----
-
 ## Finanzierung
 
 Die Finanzierung des Projekts wird aktuell beim Bund der Freien Waldorfschulen beantragt.
-
----
 
 ## Glossar
 
