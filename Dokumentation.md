@@ -42,8 +42,8 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
 
 ### Motivation und Kerntreiber für die Entwicklung des Systems
 
-- Momentan sind Waldorf-Schüler-Vertretungen technisch schlecht unterstützt - sie müssen sich mit Gruppenchats in Messengern wie Signal, Telegram und WhatsApp behelfen und Dateien in privaten Datei-Ablagen speichern und teilen. Informationen sind oft unübersichtlich verstreut. Und die Struktur einer SV mit mehreren AGs unter sich lässt sich in herkömmlichen Messengern nicht geeignet abbilden.
-- Wünschenswert wäre eine dedizierte Plattform für SV-Arbeit, die alles bereitstellt, was SVen benötigen, und diese sich untereinander vernetzt lässt
+- momentan sind Waldorf-Schüler-Vertretungen technisch schlecht unterstützt - sie müssen sich mit Gruppenchats in Messengern wie Signal, Telegram und WhatsApp behelfen und Dateien in privaten Datei-Ablagen speichern und teilen. Informationen sind oft unübersichtlich verstreut. Und die Struktur einer SV mit mehreren AGs unter sich lässt sich in herkömmlichen Messengern nicht geeignet abbilden.
+- wünschenswert wäre eine dedizierte Plattform für SV-Arbeit, die alles bereitstellt, was SVen benötigen, und diese sich untereinander vernetzt lässt
 
 ### Ziele, die mit dem System erreicht werden sollen
 
@@ -105,7 +105,7 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
 
 ![](Diagramme/Komponentendiagramm.drawio.svg)
 
-Abgebildet ist ein Komponentendiagramm, das die Struktur der WaldorfConnect Plattform visualisiert. Es ist allgemeinverständlich in der Modellierungssprache [UML](https://de.wikipedia.org/wiki/Unified_Modeling_Language) gezeichnet. 
+Abgebildet ist ein Komponentendiagramm, das die Struktur der WaldorfConnect Plattform visualisiert.
 
 Ganz oben befindet sich der LDAP Server `OpenLDAP`, auf dem alle Benutzer und Benutzergruppen mitsamt deren Rechte auf Verzeichnisse gespeichert sind.
 
@@ -135,7 +135,7 @@ Minimale Kosten sollen dadurch garantiert werden, dass ausschließlich ein deuts
 
 Außer diesen Kosten sollen keine weiteren entstehen: die verwendete Software muss kostenlos und frei verfügbar sein und die Entwickler und Administratoren arbeiten ehrenamtlich.
 
-Dienstleistungen, wie die Erstellung von Grafiken sollen auch ehrenamtlich von qualifizierten Schülern kommen.
+Dienstleistungen, wie die Erstellung von Grafiken sollen ebenfalls ehrenamtlich von qualifizierten Schülern kommen.
 
 ### Datenschutz- und Sicherheitskonzept
 
@@ -184,7 +184,7 @@ Das User Interface und die User Experience entsprechen dem State of the art und 
 
 Die Benutzerverwaltung bietet alle benötigten Funktionalitäten und viel Anpassbarkeit.
 
-Insgesamt wäre Teams funktional eine perfekte Lösung - aber weder [datenschutzrechtlich](https://www.wbs.legal/it-und-internet-recht/datenschutzrecht/microsoft-365-dsgvo-konformer-einsatz-moeglich-57217/) noch finanziell umsetzbar ([Microsoft Lizenzen als Non-Profit Organisation](https://www.microsoft.com/en-us/nonprofits/eligibility) zu beantragen würde die offizielle Gründung eines Vereins erfordern und der Erfolg des Antrags wäre dann immer noch sehr unsicher durch die Nähe zur Schule).
+Insgesamt wäre Teams funktional eine perfekte Lösung - aber weder [datenschutzrechtlich](https://www.wbs.legal/it-und-internet-recht/datenschutzrecht/microsoft-365-dsgvo-konformer-einsatz-moeglich-57217/) noch finanziell umsetzbar ([Microsoft Lizenzen als Non-Profit Organisation](https://www.microsoft.com/en-us/nonprofits/eligibility) zu beantragen würde die offizielle Gründung eines Vereins erfordern und der Erfolg des Antrags wäre durch die Nähe zur Schule dann immer noch höchst unsicher).
 
 Deshalb haben wir beschlossen uns nach Open-Source Alternativen umzusehen, die wir selbst, kostengünstig, betreiben können.
 
