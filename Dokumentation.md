@@ -61,7 +61,7 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
 
 ### Kernfunktionalitäten
 
-> wie im Dokument `Organisation.md` beschrieben
+> wie auf der Seite `Organisation` beschrieben
 
 - Datei-Speicherung (File Storage)
 - Kommunikation (Messaging, Audio- & Video Calls)
