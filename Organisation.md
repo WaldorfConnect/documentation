@@ -3,8 +3,6 @@ layout: page
 title: Organisation
 ---
 
-# WaldorfConnect | Organisation <!-- omit in toc -->
-
 ## Inhalt <!-- omit in toc -->
 
 - [Projektübersicht](#projektübersicht)

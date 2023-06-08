@@ -3,8 +3,6 @@ layout: page
 title: Dokumentation
 ---
 
-# WaldorfConnect | Dokumentation <!-- omit in toc -->
-
 Willkommen in der Architekturdokumentation der WaldorfConnect Plattform!
 
 Das Dokument entspricht strukturell einer vereinfachten und angepassten Version des vom [Fraunhofer IESE ](https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Experimentelles_Software_Engineering_IESE) entwickelten [Architecture Decomposition Framework (ADF)](https://www.iese.fraunhofer.de/blog/softwarearchitekturen-einfacher-designen-und-verstaendlicher-dokumentieren-mit-dem-fraunhofer-adf/).

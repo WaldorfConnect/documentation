@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          Waldorf Connect
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -12,8 +12,8 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      <a class="sidebar-nav-item{% if page.url == '/documentation/Dokumentation' %} active{% endif %}" href="/documentation/Dokumentation">{{ node.title }}</a>
-      <a class="sidebar-nav-item{% if page.url == '/documentation/Organisation' %} active{% endif %}" href="/documentation/Dokumentation">{{ node.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == '/documentation/Dokumentation' %} active{% endif %}" href="/documentation/Dokumentation">{{ page.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == '/documentation/Organisation' %} active{% endif %}" href="/documentation/Dokumentation">{{ page.title }}</a>
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently {{ site.version }}</span>
