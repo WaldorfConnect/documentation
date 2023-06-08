@@ -19,6 +19,6 @@ Die [W-LSV Bayern](https://wlsv-bayern.de/) wird diesen Monat noch die Plattform
 
 <br>
 
-## 📆 [Organisatorische Dokumentation](Organisation.md) 📆
+### 📆 [Organisatorische Dokumentation](Organisation.md)
 
-## 💡 [Technische Dokumentation](Dokumentation.md) 💡
+### 💡 [Technische Dokumentation](Dokumentation.md)

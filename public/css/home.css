@@ -1,0 +1,16 @@
+/*
+This CSS is written specifically for the home page `index.md`.
+It is only included when page.title == "Home" (see `head.html`)
+*/
+
+/* in the big screen view (48em+) this lets the content take up 40rem (instead of the default 38em), so the whole heading fits in  */
+@media (min-width: 48em) {
+    .content {
+      max-width: 40rem;
+    }
+}
+
+/* Centers this big "🔗 Willkommen bei WaldorfConnect 🔗" heading */
+.content > h1 {
+    text-align: center;
+}
