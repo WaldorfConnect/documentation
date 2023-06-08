@@ -10,6 +10,7 @@
 - [Projektplan](#projektplan)
 - [Projektteam](#projektteam)
 - [Finanzierung](#finanzierung)
+- [Ausblick und Pläne für die Zukunft](#ausblick-und-pläne-für-die-zukunft)
 - [Glossar](#glossar)
 
 ## Projektübersicht
@@ -51,7 +52,7 @@
 
 <u>31.05.2023 (Mittwoch)</u>: Plattform & Projekt erhalten den Namen "WaldorfConnect"
 
-<u>11.05.2023 (Sonntag)</u>: erster Prototyp der WaldorfConnect Plattform
+<u>18.06.2023 (Sonntag)</u>: erster Prototyp der WaldorfConnect Plattform
 
 ## Projektteam
 
@@ -61,9 +62,15 @@ Das Projektteam besteht derzeit aus 8 Mitgliedern.
 
 Die Finanzierung des Projekts wird aktuell beim Bund der Freien Waldorfschulen beantragt.
 
+## Ausblick und Pläne für die Zukunft
+
+- Der Bund der Freien Waldorfschulen hat angekündigt Ende Herbst 2023 mit der Planung einer Plattform zu beginnen, die seine Mitglieder - inklusive der SVen - unterstützen soll.
+  - Dieses System wird planmäßig WaldorfConnect ablösen, eine Vernetzung der Schüler mit allen Waldorf-Gremien herstellen und sowohl funktional als auch qualitativ wohl höhere Standards erfüllen.
+  - Das Team von WaldorfConnect wird dann zu gegebener Zeit die Ankunft des neuen Systems vom BdFWS ankündigen und schließlich alle Daten zu dieser neuen Lösung zu migrieren (Extract-Transform-Load-Prozess).
+
 ## Glossar
 
 - W-*: Präfix und Abkürzung für "Waldorf"
 - SV: Schüler-Vertretungen (dass kann die SMV einer Schule sein, die LSV eines Landes, oder die bundesweite SV)
 - SMV: Schüermitverwaltung; Schüler-Vertretung einer Schule
-- LSV: Landes-Schüler-Vertretung; bestehend aus Vertretern der Schulen eines Bundeslandes
+- LSV: Landes-Schüler-Vertretung; bestehend aus Vertretern der Schulen eines Bundeslandes oder eines Zusammenschlusses mehrerer Bundesländer (z.B. RheSaLux)

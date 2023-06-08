@@ -40,7 +40,6 @@ Final steht ein Ausblick in die Zukunft und auf ein potentielles Nachfolgersyste
   - [Zulip als Team Chat App](#zulip-als-team-chat-app)
   - [Hoster](#hoster)
   - [LDAP Account Manager](#ldap-account-manager)
-- [Ausblick und Pläne für die Zukunft](#ausblick-und-pläne-für-die-zukunft)
 - [Glossar](#glossar)
 
 ## Einleitung
@@ -238,13 +237,6 @@ Letztendlich wurde ein Linux V-Server mit 16GB RAM und 1.500GB SSD für 18€ im
 Um LDAP Server zu verwalten, gibt es [verschiedene Clients](https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol#LDAP-Clients). Zuerst sollte phpLDAPadmin installiert werden, weil es vom selben Team wie phpMyAdmin (die wohl meist-verwendedste Webanwendung zur Administration von MySQL-Datenbanken) entwickelt wurde. Allerdings stellt sich heraus, dass das Projekt schon seit einigen Jaharen nicht mehr weiterentwickelt wurde - die Entwickler haben es offenbar aufgegeben.
 
 Deshalb wird hier nun der [LDAP Account Manager](https://de.wikipedia.org/wiki/LDAP_Account_Manager) verwendet.
-
-
-<br>
-
-## Ausblick und Pläne für die Zukunft
-
-- Der Bund der Freien Waldorfschulen hat angekündigt, im Herbst 2023 mit der Planung einer Plattform anzufangen, die seine Mitglieder unterstützen soll - möglicherweise mit denselben oder mehr Funktionalitäten. Voraussichtlich (und das soll so kommuniziert werden) sind die Schüler-Vertretungen in dieser Plattform mit einbegriffen. Da dort nicht nur Vernetzung von SVs, sondern von allen Waldorf-Gremien überhaupt in Aussicht steht und außerdem ganz andere Mittel vorhanden sein werden, wird dieses System potentiell - wenn es schließlich da ist - WaldorfConnect ablösen.
 
 <br>
 
