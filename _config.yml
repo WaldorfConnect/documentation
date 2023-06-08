@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            WaldorfConnect
 tagline:          'Die Plattform für SV-Arbeit'
-description:      'Die WaldorfConnect Cloud-Plattform für Schüler-Vertretungen bringt deine SV-Arbeit auf ein ganz anderes Level - Cloud-Speicher, Team Chats, Audio- & Video-Calls und mehr unterstützen und vernetzen dich im gesamtem deutschsprachigen Raum!'
+description:      'Die Cloud-Plattform für Schüler-Vertretungen\n\nBring deine SV-Arbeit auf ein ganz anderes Level mit Cloud-Speicher, Team Chats, Meetings und mehr!'
 url:              https://waldorfconnect.github.io
 baseurl:          /documentation
 
