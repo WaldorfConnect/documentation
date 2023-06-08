@@ -59,11 +59,11 @@ title: Organisation
 
 ## Projektteam
 
-Das Projektteam besteht derzeit aus 8 Mitgliedern.
+Das Projektteam besteht derzeit aus 8 Mitgliedern, die sich am 28. Mai 2023 auf der [Bundesweiten W-LSV Tagung](https://wlsv-bayern.de/tagung) als Arbeitsgruppe Vernetzung/Plattform/Technik zusammengeschlossen haben.
 
 ## Finanzierung
 
-Die Finanzierung des Projekts ist bereits beim Bund der Freien Waldorfschulen beantragt.
+Aktuell trägt das Projektteam die Kosten. Eine Finanzierung des Projekts ist jedoch bereits beim [Bund der Freien Waldorfschulen](https://www.waldorfschule.de/) beantragt.
 
 ## Ausblick und Pläne für die Zukunft
 
