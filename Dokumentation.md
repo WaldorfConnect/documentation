@@ -17,7 +17,7 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
   - [Ziele, die mit dem System erreicht werden sollen](#ziele-die-mit-dem-system-erreicht-werden-sollen)
   - [Besondere Herausforderugnen](#besondere-herausforderugnen)
   - [Kernfunktionalitäten](#kernfunktionalitäten)
-  - [Randbedingungen (Constraints)](#randbedingungen-constraints)
+  - [Randbedingungen](#randbedingungen)
   - [Stakeholder](#stakeholder)
   - [Benutzerrollen](#benutzerrollen)
 - [Architekturtreiber (Funktion und Qualität)](#architekturtreiber-funktion-und-qualität)
@@ -30,7 +30,7 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
   - [Datenschutz- und Sicherheitskonzept](#datenschutz--und-sicherheitskonzept)
   - [Verfügbarkeitskonzept](#verfügbarkeitskonzept)
   - [Backupkonzept](#backupkonzept)
-- [Design-Entscheidungen \& Verworfene Alternativen](#design-entscheidungen--verworfene-alternativen)
+- [Design-Entscheidungen und Verworfene Alternativen](#design-entscheidungen-und-verworfene-alternativen)
   - [Open Source statt Microsoft Office](#open-source-statt-microsoft-office)
   - [Verworfene Architektur-Alternative: Fork von NextCloud und NextCloud Talk](#verworfene-architektur-alternative-fork-von-nextcloud-und-nextcloud-talk)
   - [Zulip als Team Chat App](#zulip-als-team-chat-app)
@@ -58,12 +58,12 @@ Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen
 
 ### Kernfunktionalitäten
 
-> wie im Dokument `Organisation.md` beschrieben
+> wie im Dokument [Organisation.md](Organisation.md) beschrieben
 
 - Datei-Speicherung (File Storage)
 - Kommunikation (Messaging, Audio- & Video Calls)
 
-### Randbedingungen (Constraints)
+### Randbedingungen
 
 - Nutzung von ausschließlich Free (kostenloser) Open-Source Software ("**FOSS**")
 - **schnelle** Entwicklung und Bereitstellung (der Bund der FWS fängt in einigen Monaten mit der Planung eines IT-Systems an, das dessen Mitglieder und ggf. auch die Schülervertretungen unterstützen soll. Dies kann Jahre dauern, bedeutet aber, dass WaldorfConnect möglichst kurzfristig  bereitstehen soll, da langfristig der BdFWS seine Plattform in Aussicht stellt.)
@@ -174,7 +174,7 @@ Falls uns hier der zur Verfügung gestellte Backup-Speicherplatz zu Rande gehen 
 
 <br>
 
-## Design-Entscheidungen & Verworfene Alternativen
+## Design-Entscheidungen und Verworfene Alternativen
 
 ### Open Source statt Microsoft Office
 
