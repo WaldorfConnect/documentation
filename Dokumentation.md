@@ -2,17 +2,13 @@
 
 Willkommen in der Architekturdokumentation der WaldorfConnect Plattform!
 
-Das Dokument entspricht strukturell einer vereinfachten und angepassten Version des vom [Fraunhofer IESE ](https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Experimentelles_Software_Engineering_IESE) entwickelten [Architecture Decomposition Framework (ADF)](https://www.iese.fraunhofer.de/blog/softwarearchitekturen-einfacher-designen-und-verstaendlicher-dokumentieren-mit-dem-fraunhofer-adf/).
-
 Ziel des Texts ist es, dem Leser erst einen guten Überblick über das System und was damit erreicht werden soll zu verschaffen.
 
 Die wesentlichen Architekturtreiber (Ziele / Faktoren, die die Gestaltung und Entscheidungene in der Softwarearchitektur beeinflussen) werden dargestellt. Der Architekturentwurf im darauffolgenden Abschnitt soll diesen Ansprüchen möglichst gerecht werden.
 
 Einige Architekturkonzepte zeigen dann, wie bestimmte angestrebte Qualitätsmerkmale erzielt werden und erhöhen das Vertrauen in das System.
 
-Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen Alternativen dokumentiert, damit nachvollzogen werden kann, warum genau diese Komponenten in der vorliegenden Konstellation ausgewählt wurden.
-
-Final steht ein Ausblick in die Zukunft und auf ein potentielles Nachfolgersystem.
+Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen Alternativen dokumentiert, damit nachvollzogen werden kann, warum genau diese Komponenten in der vorliegenden Konstellation eingesetzt werden.
 
 ## Inhalt <!-- omit in toc -->
 
