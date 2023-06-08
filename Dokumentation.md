@@ -247,7 +247,7 @@ Deshalb wird hier nun der [LDAP Account Manager](https://de.wikipedia.org/wiki/L
 - W-*: Präfix und Abkürzung für "Waldorf"
 - SV: Schüler-Vertretungen (dass kann die SMV einer Schule sein, die LSV eines Landes, oder die bundesweite SV)
 - SMV: Schüermitverwaltung; Schüler-Vertretung einer Schule
-- LSV: Landes-Schüler-Vertretung; bestehend aus Vertretern der Schulen eines Bundeslandes
+- LSV: Landes-Schüler-Vertretung; bestehend aus Vertretern der Schulen eines Bundeslandes oder eines Zusammenschlusses mehrerer Bundesländer (z.B. RheSaLux)
 - BdFWS: [Bund der Freien Waldorfschulen](https://www.waldorfschule.de/)
 - AK: Arbeitskreis (fortbeständige Arbeitsgruppe innerhalb einer SV)
 - LDAP: [Lightweight Directory Access Protocol](https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)

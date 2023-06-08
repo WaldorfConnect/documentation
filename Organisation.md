@@ -67,6 +67,7 @@ Die Finanzierung des Projekts wird aktuell beim Bund der Freien Waldorfschulen b
 - Der Bund der Freien Waldorfschulen hat angekündigt Ende Herbst 2023 mit der Planung einer Plattform zu beginnen, die seine Mitglieder - inklusive der SVen - unterstützen soll.
   - Dieses System wird planmäßig WaldorfConnect ablösen, eine Vernetzung der Schüler mit allen Waldorf-Gremien herstellen und sowohl funktional als auch qualitativ wohl höhere Standards erfüllen.
   - Das Team von WaldorfConnect wird dann zu gegebener Zeit die Ankunft des neuen Systems vom BdFWS ankündigen und schließlich alle Daten zu dieser neuen Lösung zu migrieren (Extract-Transform-Load-Prozess).
+  - das WaldorfConnect Team unterstützt und beteiligt sich gerne an diesem Projekt, um die gemachten Erfahrungen und gewonnenen Erkenntnisse sinnstiftend einzubringen
 
 ## Glossar
 
