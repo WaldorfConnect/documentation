@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            WaldorfConnect
@@ -17,10 +16,8 @@ author:
   name:           'Leander Christmann'
   url:            https://stackoverflow.com/users/20594090/lchristm
 
-paginate:         5
-
 # Custom vars
-version:          2.1.0
+version:          'in Beta'
 
 github:
   repo:           https://github.com/WaldorfConnect/documentation
