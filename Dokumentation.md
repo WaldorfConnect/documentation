@@ -1,3 +1,8 @@
+---
+layout: page
+title: Dokumentation
+---
+
 # WaldorfConnect | Dokumentation <!-- omit in toc -->
 
 Willkommen in der Architekturdokumentation der WaldorfConnect Plattform!

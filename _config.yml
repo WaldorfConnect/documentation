@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            WaldorfConnect
+tagline:          'Die Plattform für SV-Arbeit'
+description:      'Die WaldorfConnect Cloud-Plattform für Schüler-Vertretungen bringt deine SV-Arbeit auf ein ganz anderes Level - Cloud-Speicher, Team Chats, Audio- & Video-Calls und mehr unterstützen und vernetzen dich im gesamtem deutschsprachigen Raum!'
+url:              https://waldorfconnect.github.io/documentation
+baseurl:          /
+
+author:
+  name:           'Leander Christmann'
+  url:            https://stackoverflow.com/users/20594090/lchristm
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/WaldorfConnect/documentation
