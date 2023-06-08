@@ -9,8 +9,8 @@ permalink:        pretty
 title:            WaldorfConnect
 tagline:          'Die Plattform für SV-Arbeit'
 description:      'Die WaldorfConnect Cloud-Plattform für Schüler-Vertretungen bringt deine SV-Arbeit auf ein ganz anderes Level - Cloud-Speicher, Team Chats, Audio- & Video-Calls und mehr unterstützen und vernetzen dich im gesamtem deutschsprachigen Raum!'
-url:              https://waldorfconnect.github.io/documentation
-baseurl:          /
+url:              https://waldorfconnect.github.io
+baseurl:          /documentation
 
 author:
   name:           'Leander Christmann'
