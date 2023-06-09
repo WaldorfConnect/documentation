@@ -5,13 +5,13 @@ title: Dokumentation
 
 Willkommen in der Architekturdokumentation der WaldorfConnect Plattform!
 
-Ziel des Texts ist es, dem Leser erst einen guten Überblick über das System und was damit erreicht werden soll zu verschaffen.
+In der Einleitung wird dem Leser zuerst ein guter Überblick über das System (und was damit erreicht werden soll) verschafft.
 
 Dann werden zunächst die wesentlichen Architekturtreiber darstellt. Das sind Ziele oder Faktoren, die die Gestaltung und Entscheidungen bei der Softwarearchitektur maßgeblich beeinflussen. Der Architekturentwurf im darauffolgenden Abschnitt soll diesen Ansprüchen möglichst gerecht werden.
 
 Einige Architekturkonzepte zeigen anschließend, wie bestimmte angestrebte Qualitätsmerkmale erzielt werden und erhöhen das Vertrauen in das System.
 
-Gegen Ende sind dann die großen Design-Entscheidungen inklusive der verworfenen Alternativen dokumentiert, damit nachvollzogen werden kann, warum genau diese Komponenten in der vorliegenden Konstellation eingesetzt werden.
+Gegen Ende sind schließlich die großen Design-Entscheidungen inklusive der verworfenen Alternativen dokumentiert, damit nachvollzogen werden kann, warum genau diese Komponenten in der vorliegenden Konstellation eingesetzt werden.
 
 ## Inhalt <!-- omit in toc -->
 
